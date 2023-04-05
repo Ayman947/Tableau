@@ -7,11 +7,8 @@
 
 
 # **Courier Company Analytics**
+![](https://github.com/Ayman947/Tableau/blob/main/Courier%20Company%20Analytics%20(PNG).png)
+
 
 # **Food Delivery App Analytics**
-![](https://github.com/Ayman947/Customer-Churn-Prediction/blob/main/Data/Results.PNG)
-
-
-
-# **Soccer Team Analytics**
 ![](https://github.com/Ayman947/Customer-Churn-Prediction/blob/main/Data/Results.PNG)
