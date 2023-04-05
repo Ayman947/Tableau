@@ -2,7 +2,9 @@
 # [Tableau Profile Link](https://public.tableau.com/app/profile/ayman.el.taweel)
 
 
-# **Retail Analytisc**
+# **Retail Analytics**
+![](https://github.com/Ayman947/Tableau/blob/main/Retail%20Analytics%20(PNG).PNG)
+
 
 # **Courier Company Analytics**
 
