@@ -2,7 +2,7 @@
 # [Tableau Profile Link](https://public.tableau.com/app/profile/ayman.el.taweel)
 
 
-# **Cohort & Survival Analyses (LOD)**
+# **Customer Cohort & Survival Analyses (LOD)**
 ![]()
 
 
