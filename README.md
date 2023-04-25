@@ -2,9 +2,6 @@
 # [Tableau Profile Link](https://public.tableau.com/app/profile/ayman.el.taweel)
 
 
-# **Customer Cohort & Survival Analyses (LOD)**
-![](https://github.com/Ayman947/Tableau-Vizs/blob/main/Customer%20Cohort%20Analysis%20(PNG).PNG)
-![](https://github.com/Ayman947/Tableau-Vizs/blob/main/Customer%20Survival%20Analysis%20(PNG).PNG)
 
 
 # **Eurovision Contest Dashboard**
