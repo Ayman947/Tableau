@@ -2,6 +2,8 @@
 # [Tableau Profile Link](https://public.tableau.com/app/profile/ayman.el.taweel)
 
 
+# **Dynamic Customer Quadrant Analysis (LOD & Parameters)**
+![]()
 
 
 # **Eurovision Contest Dashboard**
