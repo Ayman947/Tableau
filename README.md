@@ -3,7 +3,7 @@
 
 
 # **Dynamic Customer Quadrant Analysis**
-# **(LOD & Parameters)**
+**(LOD & Parameters)**
 ![](https://github.com/Ayman947/Tableau-Vizs/blob/main/Customer%20Quadrant%20Analysis%20(PNG).PNG)
 
 
