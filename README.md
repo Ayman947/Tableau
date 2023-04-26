@@ -2,7 +2,8 @@
 # [Tableau Profile Link](https://public.tableau.com/app/profile/ayman.el.taweel)
 
 
-# **Dynamic Customer Quadrant Analysis (LOD & Parameters)**
+# **Dynamic Customer Quadrant Analysis**
+# **(LOD & Parameters)**
 ![](https://github.com/Ayman947/Tableau-Vizs/blob/main/Customer%20Quadrant%20Analysis%20(PNG).PNG)
 
 
