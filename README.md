@@ -10,24 +10,24 @@
 ![](https://github.com/Ayman947/Tableau-Vizs/blob/main/Customer%20Quadrant%20Analysis%20(PNG).PNG)
 
 
-# **Eurovision Contest Dashboard**
+# **Eurovision Contest Dashboard (Advanced Vizs)**
 ![](https://github.com/Ayman947/Tableau-Vizs/blob/main/Eurovision%20Contest%20Dashboard%20(PNG).PNG)
 
 
-# **Museum Traffic**
+# **Museum Traffic (Map Animation)**
 ![](https://github.com/Ayman947/Tableau-Vizs/blob/main/Museum%20Traffic%20(PNG).PNG)
 
 
-# **Treasure Roadmap**
+# **Treasure Roadmap (Map Animation)**
 ![](https://github.com/Ayman947/Tableau/blob/main/Trasure%20Journey%20(PNG).PNG)
 
-# **Food Delivery App Analytics**
+# **Food Delivery App Analytics (Story)**
 ![](https://github.com/Ayman947/Tableau/blob/main/Food%20Delivery%20App.png)
 
 
-# **Retail Analytics**
+# **Retail KPIs Dashboard**
 ![https://public.tableau.com/app/profile/ayman.el.taweel/viz/RetailAnalytics_16807247644810/KPIsDashboard](https://github.com/Ayman947/Tableau/blob/main/Retail%20Analytics%20(PNG).PNG)
 
 
-# **Courier Company Analytics**
+# **Courier Company Analytics (Actions)**
 ![](https://github.com/Ayman947/Tableau/blob/main/Courier%20Company%20Analytics%20(PNG).png)
