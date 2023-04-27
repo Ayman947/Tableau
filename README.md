@@ -3,7 +3,7 @@
 
 
 # **Ecommerce Platform Trends (Table Caculations)**
-![](https://github.com/Ayman947/Tableau-Vizs/blob/main/Sales%20Trends%20(png).PNG)
+![]()
 
 
 # **Dynamic Quadrant Analysis (LOD & Parameters)**
