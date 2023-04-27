@@ -2,6 +2,10 @@
 # [Tableau Profile Link](https://public.tableau.com/app/profile/ayman.el.taweel)
 
 
+# **Ecommerce Platform Trends (Table Caculations)**
+![](https://github.com/Ayman947/Tableau-Vizs/blob/main/Sales%20Trends%20(png).PNG)
+
+
 # **Dynamic Quadrant Analysis (LOD & Parameters)**
 ![](https://github.com/Ayman947/Tableau-Vizs/blob/main/Customer%20Quadrant%20Analysis%20(PNG).PNG)
 
