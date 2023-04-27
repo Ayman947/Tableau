@@ -2,15 +2,14 @@
 # [Tableau Profile Link](https://public.tableau.com/app/profile/ayman.el.taweel)
 
 
-# **Ecommerce Platform Trends (Table Caculations)**
-![](https://github.com/Ayman947/Tableau-Vizs/blob/main/Sales%20%20Trends%20(png).PNG)
-
 
 # **Dynamic Quadrant Analysis (LOD & Parameters)**
 ![](https://github.com/Ayman947/Tableau-Vizs/blob/main/Customer%20Quadrant%20Analysis%20(PNG).PNG)
 
+# **Ecommerce Trends (Table Caculations)**
+![](https://github.com/Ayman947/Tableau-Vizs/blob/main/Sales%20%20Trends%20(png).PNG)
 
-# **Eurovision Contest Dashboard (Advanced Vizs)**
+# **Eurovision Dashboard (Advanced Vizs)**
 ![](https://github.com/Ayman947/Tableau-Vizs/blob/main/Eurovision%20Contest%20Dashboard%20(PNG).PNG)
 
 
@@ -25,7 +24,7 @@
 ![](https://github.com/Ayman947/Tableau/blob/main/Food%20Delivery%20App.png)
 
 
-# **Retail KPIs Dashboard**
+# **Retail KPIs (Dashboard)**
 ![https://public.tableau.com/app/profile/ayman.el.taweel/viz/RetailAnalytics_16807247644810/KPIsDashboard](https://github.com/Ayman947/Tableau/blob/main/Retail%20Analytics%20(PNG).PNG)
 
 
