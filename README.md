@@ -3,6 +3,12 @@
 
 
 
+# **E-commerce (Pet store) Analytics**
+![](https://github.com/Ayman947/Tableau-Vizs/blob/main/images/1.PNG)
+![](https://github.com/Ayman947/Tableau-Vizs/blob/main/images/2.PNG)
+![](https://github.com/Ayman947/Tableau-Vizs/blob/main/images/3.PNG)
+![](https://github.com/Ayman947/Tableau-Vizs/blob/main/images/4.PNG)
+
 # **Dynamic Quadrant Analysis (LOD & Parameters)**
 ![](https://github.com/Ayman947/Tableau-Vizs/blob/main/Customer%20Quadrant%20Analysis%20(PNG).PNG)
 
