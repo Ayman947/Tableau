@@ -3,7 +3,7 @@
 
 
 
-# **E-commerce (Pet store) Analytics**
+# **E-commerce (Pet store) Case Study**
 ![](https://github.com/Ayman947/Tableau-Vizs/blob/main/images/1.PNG)
 ![](https://github.com/Ayman947/Tableau-Vizs/blob/main/images/2.PNG)
 ![](https://github.com/Ayman947/Tableau-Vizs/blob/main/images/3.PNG)
